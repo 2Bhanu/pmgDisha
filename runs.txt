@@ -1,0 +1,10 @@
+----new run----
+pop 100 genLen 20 gen 0 avg 10.12 best 15
+----new run----
+pop 100 genLen 20 gen 0 avg 10.04 best 15
+----new run----
+pop 100 genLen 20 gen 0 avg 9.98 best 14
+----new run----
+pop 100 genLen 20 gen 0 avg 10.23 best 15
+----new run----
+pop 100 genLen 20 gen 0 avg 9.85 best 17
